@@ -1,0 +1,13 @@
+{
+    "name": "emikadifanibarus/cekcomposer",
+    "description": "latihan1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mikae"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "5.3.3"
+    }
+}
